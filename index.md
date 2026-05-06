@@ -9,6 +9,7 @@ author: "RashardKelly @nasa-jpl"
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
+![Launch Criteria @nasa-jpl @la-county-isd @blackgirlscode](https://www.google.com/logos/doodles/2026/celebrating-the-route-66-centennial-6753651837111083-2xa.gif)
 
 # Preparing for splashdown
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
